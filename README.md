@@ -1,4 +1,4 @@
-##🚶‍♂️ Part-Based Gait Recognition System
+#🚶‍♂️ Part-Based Gait Recognition System
 
 An enterprise-grade, end-to-end computer vision platform that identifies individuals based on their walking patterns (gait) using a multi-branch ConvNeXt neural network. 
 
